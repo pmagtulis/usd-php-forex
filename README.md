@@ -1,7 +1,7 @@
 # cleaning-forex-data
 
 # What is this?
-imple pandas cleaning code for PHP-USD exchange data published daily by the [Bankers Association of the Philippines](https://bap.org.ph/).
+Simple pandas cleaning code for PHP-USD exchange data published daily by the [Bankers Association of the Philippines](https://bap.org.ph/).
 
 # How to use this?
 
