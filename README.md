@@ -4,6 +4,11 @@
 Simple pandas cleaning code for PHP-USD exchange data published daily by the [Bankers Association of the Philippines](https://bap.org.ph/) for easy access by
 journalists.
 
+# Recent updates
+|column name|definition|
+|---|---|
+|*Mar 9*|Made a lot of changes beginning with more updated data, cleaned out NaNs and weekend entries containing zero values. Included a sample analysis on how to use data| 
+
 # How to use this?
 
 Simply download the CSV files (found in **raw_data** directory and the notebook and store them in the same path in your computer. Run code in Jupyter notebook. The 
