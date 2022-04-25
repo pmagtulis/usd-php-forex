@@ -7,7 +7,9 @@ journalists.
 # Recent updates
 |column name|definition|
 |---|---|
-|*Mar 9*|Made a lot of changes beginning with more updated data, cleaned out NaNs and weekend entries containing zero values. Included a sample analysis on how to use data| 
+|*Apr 25*|Updated data and reversed y axis of chart to better show currency movements| 
+|*Mar 9*|Made a lot of changes beginning with more updated data, cleaned out NaNs and weekend entries containing zero values. Included a sample analysis on 
+how to use data| 
 
 # How to use this?
 
