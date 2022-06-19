@@ -7,6 +7,7 @@ journalists.
 # Recent updates
 |column name|definition|
 |---|---|
+|*Jun 19*|Updated data as of June 17, 2022|
 |*Apr 25*|Updated data and reversed y axis of chart to better show currency movements| 
 |*Mar 9*|Made a lot of changes beginning with more updated data, cleaned out NaNs and weekend entries containing zero values. Included a sample analysis on how to use data| 
 
