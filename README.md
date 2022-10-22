@@ -7,6 +7,7 @@ journalists.
 # Recent updates
 |column name|definition|
 |---|---|
+|*Oct 22*|Updated data|
 |*Sep 21*|Updated data as of Sept 21, 2022|
 |*Jun 19*|Updated data as of June 17, 2022|
 
