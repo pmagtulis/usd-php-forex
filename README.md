@@ -7,9 +7,8 @@ journalists.
 # Recent updates
 |column name|definition|
 |---|---|
+|*May 24*|Updated data as of May 24, 2024|
 |*Dec 22*|Updated data as of Dec. 22, 2022|
-|*Oct 22*|Updated data|
-|*Sep 21*|Updated data as of Sept 21, 2022|
 
 # How to use this?
 
